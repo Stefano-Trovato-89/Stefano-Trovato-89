@@ -4,7 +4,8 @@
 - 🎨 In my free time, I enjoy drawing and swimming, activities that help me balance creativity and focus.
 - 📫 How to reach me:
 
-[Linkedin](www.linkedin.com/in/stefano-trovato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stefano-trovato)
+
 
 - ⚡ Practicality: I believe in the importance of turning data into practical, useful, and innovative solutions.
 
