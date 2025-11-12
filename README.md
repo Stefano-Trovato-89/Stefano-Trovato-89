@@ -1,11 +1,20 @@
-- 👋 Hi, I'm Stefano Trovato 🧑‍🔬
-- 📚 I'm a biologist with a strong passion for data science and artificial intelligence.
-- 🎓 I'm currently enrolled in the Data Science Master's Program at [ProfessionAI](https://www.profession.ai), along with Master's Programs in Data Engineering, AI Engineering, and AI Development. Throughout my studies, I am developing hands-on skills in Python, R, SQL, and Machine Learning, with a particular focus on the practical application of advanced technologies. I'm diving deep into topics such as Deep Learning, Natural Language Processing, and Big Data.
-- 🎨 In my free time, I enjoy drawing and swimming, activities that help me balance creativity and focus.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefano-trovato)
+👋 Hi, I'm **Stefano Trovato** 🧑‍🔬  
+A biologist turned Data Scientist, passionate about applying AI to real-world challenges in science, health, and the environment.
+
+🎓 I’m enrolled in multiple advanced programs:  
+- **Master in Data Science** (completed, with 10+ end-to-end projects)  
+- **Master in Data Engineering** (Spark, Databricks, SQL, NoSQL, Cloud)  
+- **AI Engineering & AI Development** (Deep Learning, NLP, pipelines)
+
+⚙️ My stack includes Python (Pandas, Scikit-learn, TensorFlow, PyTorch), SQL, Spark, Tableau – with growing experience in Docker, Airflow, and cloud tools (AWS, Azure, Snowflake).
+
+💡 I value **practicality and impact**, turning data into useful and innovative solutions.
+
+🎨 Outside of work, I enjoy **drawing** and **swimming**, to stay creative and focused.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefano-trovato)  
 
 
-- ⚡ Practicality: I believe in the importance of turning data into practical, useful, and innovative solutions.
 
 <!---
 Stefano-Trovato-89/Stefano-Trovato-89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
