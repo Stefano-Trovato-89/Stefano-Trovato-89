@@ -2,7 +2,7 @@
 A biologist turned Data Scientist, passionate about applying AI to real-world challenges in science, health, and the environment.
 
 🎓 I’m enrolled in multiple advanced programs:  
-- **Master in Data Science** (completed, with 10+ end-to-end projects)  
+- **Master in Data Science** (completed, with 10+ end-to-end projects in ML, NLP, Big Data and explainability)  
 - **Master in Data Engineering** (Spark, Databricks, SQL, NoSQL, Cloud)  
 - **AI Engineering & AI Development** (Deep Learning, NLP, pipelines)
 
