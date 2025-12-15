@@ -10,7 +10,7 @@ A biologist turned Data Scientist, passionate about applying AI to real-world ch
 
 💡 I value **practicality and impact**, turning data into useful and innovative solutions.
 
-🎨 Outside of work, I enjoy **drawing** and **swimming**, to stay creative and focused.sdfs
+🎨 Outside of work, I enjoy **drawing** and **swimming**, to stay creative and focused.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefano-trovato)  
 
